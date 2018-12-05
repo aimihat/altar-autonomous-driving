@@ -1,0 +1,5 @@
+Implementation of Lane detection by Audi:
+- load the image form the camera as cv::mat
+- turn the image into gray scale
+- load mat as vector and then traverse row by row to detect change in brightness (compared with a constant value defined in header)
+- the line width is determined by the distance between the ramp up and ramp down point

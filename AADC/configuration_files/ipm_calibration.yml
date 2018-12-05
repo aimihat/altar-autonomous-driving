@@ -1,0 +1,17 @@
+%YAML:1.0
+---
+calibration_time: "Fr 06 Jul 2018 17:31:07 BST"
+image_width: 1280
+image_height: 960
+board_width: 9
+board_height: 6
+square_size: 2.5000000372529030e-02
+flags: 0
+homography_matrix: !!opencv-matrix
+   rows: 3
+   cols: 3
+   dt: d
+   data: [ 3.5993484349230656e-04, -2.8450563891470581e-04,
+       -6.7574063575507895e-02, 3.8259628989200033e-05,
+       7.3602138732369255e-04, -4.8473693186773070e-01,
+       4.1416105938763069e-04, -2.3130290626617593e-03, 1. ]

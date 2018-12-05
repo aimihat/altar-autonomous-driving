@@ -1,0 +1,9 @@
+Yolo for real-time object detection + second classifier for direction
+Install darknet (install cuda on Q2)
+
+sudo apt-get install libopencv-dev !!breaks build (run, install darknet, then remove)
+sudo apt-get install libopencv-highgui-dev
+
+nvcc https://askubuntu.com/questions/885610/nvcc-version-command-says-nvcc-is-not-installed
+
+https://github.com/prabindh/darknet/blob/master/arapaho/arapaho_readme.txt#L4
