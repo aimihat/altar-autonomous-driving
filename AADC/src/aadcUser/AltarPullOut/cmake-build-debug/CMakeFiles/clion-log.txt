@@ -1,0 +1,7 @@
+/home/robin/Downloads/cmake-3.11.4-Linux-x86_64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/robin/Desktop/audi/AADC/src/aadcUser/AltarPullOut
+CMake Error at CMakeLists.txt:12 (adtf_add_filter):
+  Unknown CMake command "adtf_add_filter".
+
+
+-- Configuring incomplete, errors occurred!
+See also "/home/robin/Desktop/audi/AADC/src/aadcUser/AltarPullOut/cmake-build-debug/CMakeFiles/CMakeOutput.log".
